@@ -1,8 +1,8 @@
 # Programming in Java — Assignment 3
 
-**Student A name / register number:** Dev Narayan E / 1924260165
+**Student name / register number:** Dev Narayan E / 1924260165
 **Java version:** Java 21 (source is kept compatible with Java 11+)  
-**Student A GitHub link:** [Add repository link]  
+**Student GitHub link:** https://github.com/devnarayan729  
 
 
 Detailed design answers, complexity notes, and test evidence are in
